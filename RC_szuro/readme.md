@@ -50,7 +50,7 @@ Aluláteresztő RC szűrő kapcs.
 
 *Adatok:*
 
-$R=5O Ohm$
+$R=5 Ohm$
 
 $C=4 uF$
 
